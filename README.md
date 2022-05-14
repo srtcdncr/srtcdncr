@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on finance app
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: srtc.dncr@outlook.com
 
