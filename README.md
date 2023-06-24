@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srtcdncr&show_icons=true)  
 
 
-![Profile views](https://gpvc.arturio.dev/srtcdncr)
+![Profile views](https://komarev.com/ghpvc/?username=srtcdncr)
